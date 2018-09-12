@@ -38,3 +38,7 @@ The Ultra dock (Compatible with ThinkPad P52s, L580, L480, T580, P580p, T480s, T
 
 [Stardock DP to DVI Adapter](https://amzn.to/2QnLbXg)  
 The Ultra docks come with one of each port (HDMI, 2x DP, DVI, VGA), but as two DVI monitors is quite common, I included this as an optional accessory.
+
+
+[65w USB-C AC Charger](https://amzn.to/2NCIFhx)  
+This USB-C UK AC Charger meets all the specifications of the USB-C standard and will charge at the highest speed that the T480 can handle.
