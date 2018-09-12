@@ -3,7 +3,7 @@ UK-Based accessories and parts for Lenovo Thinkpads.
 
 
 
-# T460
+# T460/T460s
 
 [Lenovo Thinkpad 90w AC Charger](https://amzn.to/2x0QFiX)  
 This UK AC Charger is identical to the original one supplied by Lenovo and supports the full throughput of 90w.
@@ -21,7 +21,7 @@ The Ultra dock (Compatible with ThinkPad L440 L460 L540 L560 P50 T440 T450 T460 
 - 10/1000 Gigabit Ethernet port
 - Notebook Lock and Security Lock Slot
 
-# T480
+# T480/T480s
 
 [Ultra Dock](https://amzn.to/2N7TFnJ)  
 The Ultra dock (Compatible with ThinkPad P52s, L580, L480, T580, P580p, T480s, T480, X1 Carbon Gen 6, X2800) accepts the following input:
